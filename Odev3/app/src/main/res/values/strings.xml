@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="sudokuZorluk">Difficulty : Very Hard</string>
+    <string name="sudokuYazi">Fun Way To Keep Your Mind Alive</string>
+    <string name="contiuneButton">CONTINUE</string>
+    <string name="newGameButton">NEW GAME</string>
+    <string name="changeDifficultyButton">CHANGE DIFFICULTY</string>
+    <string name="dailyChallengeButton">DAILY CHALLENGE</string>
+    <string name="optionsButton">OPTIONS</string>
+    <string name="fiyatAciklama">For Today Only 1 $</string>
+    <string name="getPremiumButton">GET PREMIUM</string>
+</resources>

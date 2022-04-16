@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="sudokuZorluk">Zorluk : Çok Zor</string>
+    <string name="sudokuYazi">Zihni Canlı Tutmanın Eğlenceli Yolu</string>
+    <string name="contiuneButton">DEVAM ET</string>
+    <string name="newGameButton">YENİ OYUN</string>
+    <string name="changeDifficultyButton">ZORLUĞU DEĞİŞTİR</string>
+    <string name="dailyChallengeButton">GÜNLÜK MÜCADELE</string>
+    <string name="optionsButton">AYARLAR</string>
+    <string name="fiyatAciklama">Bugün Sadece 15 ₺</string>
+    <string name="getPremiumButton">PREMIUM ALIN</string>
+</resources>
